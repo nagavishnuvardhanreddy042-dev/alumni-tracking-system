@@ -248,3 +248,12 @@ You don’t need to create or edit the file manually.
 Step 7: Exit
 
 When finished, select 6 to exit the program safely.
+
+
+
+ ALUMNI MANAGEMENT SYSTEM 
+
+<img width="486" height="214" alt="Screenshot 2025-11-23 094228" src="https://github.com/user-attachments/assets/c6f47127-65f7-48df-89cf-9c10b6ac6792" />
+
+
+
