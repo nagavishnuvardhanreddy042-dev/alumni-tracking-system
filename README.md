@@ -257,3 +257,23 @@ When finished, select 6 to exit the program safely.
 
 
 
+
+ Add Alumni
+
+<img width="571" height="187" alt="Screenshot 2025-11-23 094515" src="https://github.com/user-attachments/assets/f0f45138-1d61-4c8d-9f7e-e8884b64c433" />
+
+
+
+
+
+ Display All Alumni
+
+<img width="505" height="341" alt="Screenshot 2025-11-23 094614" src="https://github.com/user-attachments/assets/f32a81bd-1151-494e-ba95-510aa0eb1645" />
+
+
+
+
+
+ Search Alumni
+
+<img width="551" height="236" alt="Screenshot 2025-11-23 094733" src="https://github.com/user-attachments/assets/273bf525-d161-44ff-a181-00e7ebe87f49" />
